@@ -1,0 +1,12 @@
+/*css*/
+body {
+
+    color: aqua;
+}
+.parrafo {
+    color:red
+}
+#parrafo2 {
+    color: blueviolet;
+    font-size: 60px;   
+}
