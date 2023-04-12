@@ -1,0 +1,25 @@
+.main-nav {
+    margin-top: 10px;
+    list-style: none;
+    padding: 15px;
+    background-color: burlywood;
+}
+.main-van_item {
+    display: inline-block;
+}
+.main-van_item a {
+    color: black;
+    padding: 50px;
+    border-radius: 2px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.main-van_item a:hover {
+    color: white;
+}
+.main-van_item a:active {
+    color: rgb(178, 31, 31);
+}
+.main-van_item a::after {
+    content: " || ";
+}
